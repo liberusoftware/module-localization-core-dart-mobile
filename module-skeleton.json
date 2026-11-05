@@ -1,0 +1,25 @@
+{
+  "repository": "module-localization-core-dart-mobile",
+  "capabilityKey": "liberusoftware/localization-core",
+  "presentation": "dart-mobile",
+  "package": "module_localization_core_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/boilerplate/nextjs/localization-core.md",
+  "presentationPlan": "projects/boilerplate/features/localization-core.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting",
+    "automation",
+    "billing",
+    "boilerplate",
+    "browser-game",
+    "control-panel",
+    "crm",
+    "genealogy",
+    "maintenance",
+    "real-estate",
+    "social-network"
+  ]
+}
